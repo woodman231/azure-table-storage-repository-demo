@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+<ItemGroup>
+    <ProjectReference Include="..\TableStorageRepositoryDemo.Models\TableStorageRepositoryDemo.Models.csproj" />    
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Azure.Data.Tables" Version="12.6.0" />
+  </ItemGroup>
+
+</Project>

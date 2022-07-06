@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableStorageRepositoryDemo.Web", "TableStorageRepositoryDemo.Web\TableStorageRepositoryDemo.Web.csproj", "{DB842783-0469-406E-B329-C8ECE1D4B114}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableStorageRepositoryDemo.Models", "TableStorageRepositoryDemo.Models\TableStorageRepositoryDemo.Models.csproj", "{83044E09-8E4B-4FB9-8560-5FB4A353DA82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableStorageRepositoryDemo.Repository", "TableStorageRepositoryDemo.Repository\TableStorageRepositoryDemo.Repository.csproj", "{5AA5DCB0-88E3-463D-9752-4578C4341224}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableStorageRepositoryDemo.Service", "TableStorageRepositoryDemo.Service\TableStorageRepositoryDemo.Service.csproj", "{ABED051B-F80A-4FAD-9189-7D42811EBCE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB842783-0469-406E-B329-C8ECE1D4B114}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB842783-0469-406E-B329-C8ECE1D4B114}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB842783-0469-406E-B329-C8ECE1D4B114}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB842783-0469-406E-B329-C8ECE1D4B114}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83044E09-8E4B-4FB9-8560-5FB4A353DA82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83044E09-8E4B-4FB9-8560-5FB4A353DA82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83044E09-8E4B-4FB9-8560-5FB4A353DA82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83044E09-8E4B-4FB9-8560-5FB4A353DA82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AA5DCB0-88E3-463D-9752-4578C4341224}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AA5DCB0-88E3-463D-9752-4578C4341224}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AA5DCB0-88E3-463D-9752-4578C4341224}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AA5DCB0-88E3-463D-9752-4578C4341224}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABED051B-F80A-4FAD-9189-7D42811EBCE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABED051B-F80A-4FAD-9189-7D42811EBCE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABED051B-F80A-4FAD-9189-7D42811EBCE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABED051B-F80A-4FAD-9189-7D42811EBCE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
